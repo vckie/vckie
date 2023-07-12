@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=30&duration=1000&pause=500&width=435&lines=I+am+Cybersecurity+Analyst;I+am+Photographer;I+am+Trainer;I+am+Content+Creator)](https://git.io/typing-svg)
 
 ### Hi there 👋,
-At present I am a working professional (since Jan 2022) and I am an avid learner in the field of cybersecurity for the past 7 years.  I am good at teaching and little bit of photography as well. You can check out the link below. I hope you guys enjoy the course. Thank for the time.
 
 Founded & Working on 👇
 ![Logo](https://media.licdn.com/dms/image/D4D3DAQEjRCAkPFYhyA/image-scale_191_1128/0/1673023279238?e=1689804000&v=beta&t=Fu-0vOb8npQRjR1ROgwCw0pzlLJ-u7dtLu-l4djFb5U)
