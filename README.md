@@ -10,6 +10,7 @@ At present I am a working professional (since Jan 2022) and I am an avid learner
 - 🔭 I’m currently working on this page. 
 
 <!--START_SECTION:badges-->
+
 <!--END_SECTION:badges-->
 
 
