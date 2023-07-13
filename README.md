@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=30&duration=1000&pause=500&width=435&lines=I+am+Cybersecurity+Analyst;I+am+Photographer;I+am+Trainer;I+am+Content+Creator)](https://git.io/typing-svg)
-
 ### Hi there 👋,
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=30&duration=1000&pause=500&width=435&lines=I+am+Cybersecurity+Analyst;I+am+Photographer;I+am+Trainer;I+am+Content+Creator)](https://git.io/typing-svg)
 
 Founded & Working on 👇
 
