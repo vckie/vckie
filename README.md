@@ -4,7 +4,7 @@
 
 Founded & Working on 👇
 
-![Logo](https://media.licdn.com/dms/image/D4D3DAQEjRCAkPFYhyA/image-scale_191_1128/0/1673023279238?e=1689804000&v=beta&t=Fu-0vOb8npQRjR1ROgwCw0pzlLJ-u7dtLu-l4djFb5U)
+![Logo](https://github.com/vckie/vckie/blob/main/Color%20logo%20with%20background.png)
 
 Badges Earned so far
 
