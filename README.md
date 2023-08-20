@@ -4,7 +4,7 @@
 
 Founded & Working on 👇
 
-![Logo](https://github.com/vckie/vckie/blob/main/Color%20logo%20with%20background.png = 400px)
+![Logo](https://github.com/vckie/vckie/blob/main/Color%20logo%20-%20no%20background.svg)
 
 Badges Earned so far
 
