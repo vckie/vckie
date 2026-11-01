@@ -1,27 +1,136 @@
-### Hi there 👋,
+# Vigneshwaran J
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=30&duration=1000&pause=500&width=435&lines=I+am+Cybersecurity+Analyst;I+am+Photographer;I+am+Trainer;I+am+Content+Creator)](https://git.io/typing-svg)
+### Cybersecurity Analyst · Threat Intelligence · Incident Response
 
-
-Badges Earned so far
-
-<!--START_SECTION:badges-->
-[![Working in a Digital World: Professional Skills](https://images.credly.com/size/110x110/images/4f76c627-c180-49ae-a5a0-742885eef581/Working_in_a_Digital_World-_Professional_Skills.png)](http://www.credly.com/badges/073c2028-2953-413e-bd4f-66411840bcb2 "Working in a Digital World: Professional Skills")
-[![Cybersecurity Fundamentals](https://images.credly.com/size/110x110/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](http://www.credly.com/badges/033da60b-5ebf-4acd-9dd2-58bba2fa1af5 "Cybersecurity Fundamentals")
-[![Google IT Support Certificate](https://images.credly.com/size/110x110/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png)](http://www.credly.com/badges/7929ca20-e2d7-446f-9d1c-57b0527c657f "Google IT Support Certificate")
-<!--END_SECTION:badges-->
-
-- 🔭 I’m currently working on this page.
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vckie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vckie_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vcky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vcky" height="30" width="40" /></a>
-<a href="https://instagram.com/vky.pic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vky.pic" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/vcky"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/vckie"><img src="https://img.shields.io/badge/GitHub-Follow-24292F?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/vckie_"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
+## About Me
 
-<p align="left"> <a href="https://twitter.com/vckie_" target="blank"><img src="https://img.shields.io/twitter/follow/vckie_?logo=twitter&style=for-the-badge" alt="vckie_" /></a> </p>
+I'm a cybersecurity professional with **4+ years of experience** across in-house SOC and MSSP environments, working across security operations, threat intelligence, incident response and security automation.
+
+My interests lie in understanding how threats operate, investigating suspicious activity, improving detection capabilities and building practical security solutions.
+
+I enjoy combining hands-on security operations with automation, research and continuous experimentation.
+
+- 🔐 Security Operations & Incident Response
+- 🔎 Threat Intelligence & Threat Hunting
+- ⚙️ SIEM Engineering & SOAR Automation
+- 🧩 Security Integrations & Workflow Development
+- 🛠️ Homelab Projects & Security Research
+
+## Areas of Expertise
+
+| Domain | Focus Areas |
+|---|---|
+| Security Operations | SIEM Monitoring, Alert Triage, Incident Investigation |
+| Threat Intelligence | IOC Analysis, OSINT, Threat Research, Enrichment |
+| Incident Response | Incident Handling, Investigation, Response Workflows |
+| Threat Hunting | MITRE ATT&CK, Hypothesis-driven Hunting |
+| SIEM Engineering | QRadar, Splunk ES, Detection Content |
+| Security Automation | FortiSOAR, n8n, API Integrations, Playbooks |
+
+## Technology Stack
+
+**SIEM & SOAR**
+
+<p>
+  <img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/FortiSOAR-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+</p>
+
+**Endpoint & Network Security**
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=flat-square&logo=microsoftdefender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cortex_XDR-E85B25?style=flat-square" />
+  <img src="https://img.shields.io/badge/SentinelOne-6C3FC5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Check_Point-E50000?style=flat-square" />
+  <img src="https://img.shields.io/badge/ExtraHop-252525?style=flat-square" />
+</p>
+
+**Threat Intelligence & Detection**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenCTI-273B70?style=flat-square" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-EF6C00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Sigma_Rules-444444?style=flat-square" />
+  <img src="https://img.shields.io/badge/OSINT-2563EB?style=flat-square" />
+</p>
+
+**Programming & Automation**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+**Infrastructure & Platforms**
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+## Projects & Experiments
+
+I believe practical experience comes from building things, experimenting and solving real-world problems.
+
+| Project | Description |
+|---|---|
+| Threat Intelligence Platform | Developing an IOC investigation and enrichment workflow integrating multiple intelligence sources. |
+| OpenCTI Automation | Exploring automated threat intelligence ingestion, enrichment and correlation. |
+| Security Automation Lab | Building security workflows and integrations using n8n, APIs and Docker. |
+| Detection Engineering | Experimenting with Sigma rules, MITRE ATT&CK mapping and SIEM detection content. |
+| Cybersecurity Homelab | Maintaining a self-hosted environment for security tools, infrastructure and automation experiments. |
+
+*More experiments and implementations will be documented as they evolve.*
+
+## Certifications & Badges
+
+<p align="left">
+  <a href="https://www.credly.com/badges/033da60b-5ebf-4acd-9dd2-58bba2fa1af5">
+    <img src="https://images.credly.com/size/110x110/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" width="95" alt="Cybersecurity Fundamentals" />
+  </a>
+  <a href="https://www.credly.com/badges/7929ca20-e2d7-446f-9d1c-57b0527c657f">
+    <img src="https://images.credly.com/size/110x110/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" width="95" alt="Google IT Support" />
+  </a>
+  <a href="https://www.credly.com/badges/073c2028-2953-413e-bd4f-66411840bcb2">
+    <img src="https://images.credly.com/size/110x110/images/4f76c627-c180-49ae-a5a0-742885eef581/Working_in_a_Digital_World-_Professional_Skills.png" width="95" alt="Working in a Digital World: Professional Skills" />
+  </a>
+</p>
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vckie&show_icons=true&hide_border=true&theme=default&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vckie&layout=compact&hide_border=true&theme=default" height="165" alt="Most used languages" />
+</p>
+
+---
+
+## Beyond Cybersecurity
+
+Outside security, I'm interested in photography, creative projects and sharing technical knowledge.
+
+I enjoy learning new things, documenting what I build and helping others understand technology.
+
+---
+
+<p align="center">
+  <b>Learn continuously. Build practically. Secure intelligently.</b>
+</p>
