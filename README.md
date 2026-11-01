@@ -114,13 +114,6 @@ I believe practical experience comes from building things, experimenting and sol
   </a>
 </p>
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vckie&show_icons=true&hide_border=true&theme=default&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vckie&layout=compact&hide_border=true&theme=default" height="165" alt="Most used languages" />
-</p>
-
 ---
 
 ## Beyond Cybersecurity
